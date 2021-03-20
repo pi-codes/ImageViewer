@@ -39,7 +39,7 @@ class Login extends Component {
 
         let username = "user",
             password = "user",
-            accessToken = "IGQVJVY01QVHBzbjdPTHFqa2ZA6U1NTZAERXcHIxVERXak01VGp4NlhhMGRPdVdlemE3T3JUZAjZAkUF9STG0xM0ZAIaFVROXBfenU4azZAkX1NrbktsczBsRW9jVDQ0bzZAnU2ZAya04xTVo5Q09vbzJId2t6dGZABc2dRR0M0bFRn"
+            accessToken = "IGQVJYYjFoYlFjQkhFaW9SMnI2NWlVTTBidmpWaDlyd01aNnRVV2pBeWNEMFAxV28tckhOVWQ3QmFQNVhHWE41eUNpaVl1dVdKRGd3Y0FKZA05OUXB6TXE1dzEwWm9makxBcnpoU0xzUmk4NTBVejlMVktQdTJESXZAPLU9z"
         this.setState({ incorrectCredentials: "dispNone" });
         if (
             this.state.username === username &&
